@@ -47,8 +47,6 @@ echo "La Contraseña es: skullbinanonox101"
 
 sleep 3.0
 
-cd Bomba
-
 gpg skull.sh.gpg
 
 sleep 1.0
